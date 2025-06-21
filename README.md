@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0344-reverse-string) |
 | [1260-day-of-the-year](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/1260-day-of-the-year) |
 ## Array
 |  |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0191-number-of-1-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
