@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0204-count-primes) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0169-majority-element) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0169-majority-element) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
