@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/1677-matrix-diagonal-sum) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2728-sum-in-a-matrix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/2728-sum-in-a-matrix) |
 ## Enumeration
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0169-majority-element) |
+| [2728-sum-in-a-matrix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/2728-sum-in-a-matrix) |
 ## Counting
 |  |
 | ------- |
@@ -69,12 +71,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/1677-matrix-diagonal-sum) |
+| [2728-sum-in-a-matrix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/2728-sum-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0054-spiral-matrix) |
+| [2728-sum-in-a-matrix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/2728-sum-in-a-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/1603-running-sum-of-1d-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2728-sum-in-a-matrix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/2728-sum-in-a-matrix) |
 <!---LeetCode Topics End-->
