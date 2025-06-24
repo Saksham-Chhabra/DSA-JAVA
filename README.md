@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0204-count-primes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/1677-matrix-diagonal-sum) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Enumeration
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -59,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
