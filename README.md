@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0191-number-of-1-bits) |
+| [2659-number-of-even-and-odd-bits](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/2659-number-of-even-and-odd-bits) |
 ## Two Pointers
 |  |
 | ------- |
