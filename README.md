@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0204-count-primes) |
+| [0326-power-of-three](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0326-power-of-three) |
 | [1260-day-of-the-year](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/1260-day-of-the-year) |
 ## String
 |  |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
