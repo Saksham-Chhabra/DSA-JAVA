@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0342-power-of-four) |
 | [1260-day-of-the-year](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/1260-day-of-the-year) |
 ## String
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0342-power-of-four) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/2659-number-of-even-and-odd-bits) |
 ## Two Pointers
 |  |
@@ -106,4 +108,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
