@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/1677-matrix-diagonal-sum) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2728-sum-in-a-matrix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/2728-sum-in-a-matrix) |
 ## Enumeration
