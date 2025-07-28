@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0125-valid-palindrome) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0169-majority-element) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0342-power-of-four) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
