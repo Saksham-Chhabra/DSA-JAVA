@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0169-majority-element) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0443-string-compression) |
