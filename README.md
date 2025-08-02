@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [2728-sum-in-a-matrix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/2728-sum-in-a-matrix) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0443-string-compression) |
