@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0204-count-primes) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0389-find-the-difference) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
