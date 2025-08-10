@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0342-power-of-four) |
 ## Trie
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
