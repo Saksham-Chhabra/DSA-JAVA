@@ -13,15 +13,13 @@ class Solution {
         ListNode temp = head;
         ListNode prev = head;
         int size = 0;
+        if (head == null) return null;
         while(temp != null) {
             temp = temp.next;
             size++;
         }
         if (n == size) {
             head = head.next;
-        }
-        if (size == 1) {
-            head = null;
             return head;
         }
         else {
