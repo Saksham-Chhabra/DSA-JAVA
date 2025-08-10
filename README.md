@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0088-merge-sorted-array) |
@@ -160,5 +161,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
