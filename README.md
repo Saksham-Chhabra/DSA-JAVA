@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0443-string-compression) |
+| [0908-middle-of-the-linked-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0206-reverse-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
