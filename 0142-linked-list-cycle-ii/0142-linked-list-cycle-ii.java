@@ -10,38 +10,27 @@
  * }
  */
 public class Solution {
-    public boolean isCycle(ListNode head) {
-     // let's detect the cycle first
+    public ListNode detectCycle(ListNode head) {
+        // let's detect the cycle first
         ListNode slow = head;
         ListNode fast = head;
-
+        boolean cycleExists = false;
         while (fast != null && fast.next!= null) {
             slow = slow.next;
             fast = fast.next.next;
             if (slow == fast) {
-                return true;
-            }
-        }
-            return false;
-    }
-    public ListNode detectCycle(ListNode head) {
-       if(!isCycle(head)) return null;
-           ListNode slow = head;
-        ListNode fast = head;
-
-        while (fast != null && fast.next!= null) {
-            slow = slow.next;
-            fast = fast.next.next;
-            if (slow == fast) {
+                cycleExists = true;
                 break;
             }
-
-    }
+        }
+        if (cycleExists) {
         slow = head;
-        while( fast!=null && slow!=fast) {
+        while( slow!=fast) {
             slow = slow.next;
             fast = fast.next;
         }
         return slow;
+        }
+        return null;
     }
 }
