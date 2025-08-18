@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
