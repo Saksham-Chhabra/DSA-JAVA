@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0908-middle-of-the-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
