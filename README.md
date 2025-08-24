@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0342-power-of-four) |
 | [1119-robot-bounded-in-circle](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/1119-robot-bounded-in-circle) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0258-add-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/0258-add-digits) |
 | [1119-robot-bounded-in-circle](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/1119-robot-bounded-in-circle) |
 | [2728-sum-in-a-matrix](https://github.com/Saksham-Chhabra/DSA-JAVA/tree/master/2728-sum-in-a-matrix) |
 ## Prefix Sum
